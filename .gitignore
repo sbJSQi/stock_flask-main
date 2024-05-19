@@ -1,0 +1,6 @@
+.idea
+__pycache__
+data/沪深300历史数据.xlsx
+data/上证指数历史数据.xlsx
+data/深证综指历史数据.xlsx
+data/A股指数历史数据.xlsx
